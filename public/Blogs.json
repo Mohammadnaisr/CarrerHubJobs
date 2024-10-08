@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "The Journey to Becoming a Web Developer",
+    "content": "Asynchronous JavaScript can be confusing, but it's essential to building modern web applications. In this post, I break down the differences between callbacks, promises, and async/await, and how to use them effectively.",
+    "jobs": "300 Jobs Available"
+  },
+  {
+    "id": 2,
+    "title": "Top 10 JavaScript Tips for Beginners",
+    "content": "JavaScript can be tricky for beginners, but these top 10 tips will make learning easier. From understanding 'this' to mastering array methods, these tips will help you write cleaner and more efficient code."
+  },
+  {
+    "id": 3,
+    "title": "Why React is the Future of Frontend Development",
+    "content": "React has taken over the frontend world, but what makes it so powerful? In this post, I explore the key features of React, including component-based architecture and virtual DOM, that make it a developer favorite."
+  },
+  {
+    "id": 4,
+    "title": "How to Build a Responsive Website in 2024",
+    "content": "In today’s mobile-first world, building responsive websites is more important than ever. Learn the latest techniques and tools, including CSS Grid, Flexbox, and media queries, to create a fully responsive website."
+  },
+  {
+    "id": 5,
+    "title": "Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+    "content": "Asynchronous JavaScript can be confusing, but it's essential to building modern web applications. In this post, I break down the differences between callbacks, promises, and async/await, and how to use them effectively."
+  },
+  {
+    "id": 6,
+    "title": "Getting Started with Node.js and Express",
+    "content": "Want to build server-side applications with JavaScript? Node.js and Express are the way to go. In this beginner-friendly tutorial, I'll walk you through setting up a simple server using these powerful tools."
+  }
+]
